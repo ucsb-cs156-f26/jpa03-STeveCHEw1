@@ -2,7 +2,6 @@
 
 Running at: https://jpa03-stevechew1.dokku-10.cs.ucsb.edu
 
-Running at: <https://jpa03-staff.dokku-00.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
